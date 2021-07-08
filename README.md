@@ -1,2 +1,3 @@
 # matchNearest-WORM
-find points in one table which are nearest to points in another
+
+[README](https://github.com/dmparrishphd/matchNearest-CORW/blob/main/README.md).
